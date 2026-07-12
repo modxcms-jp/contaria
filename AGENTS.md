@@ -2,7 +2,7 @@
 
 ## プロジェクト構成
 
-このリポジトリは要件定義先行です。現在の正本は [docs/requirements.md](/home/yamamoto/ghq/github.com/modxcms-jp/contari/docs/requirements.md) です。まだ `src/` や `tests/` はありません。実装を始める際は、本体コードを `src/`、テストを `tests/`、サンプルや補助資料を `docs/` または `fixtures/` に分けてください。
+このリポジトリは要件定義先行です。現在の正本は [docs/requirements.md](/home/yamamoto/ghq/github.com/modxcms-jp/contaria/docs/requirements.md) です。まだ `src/` や `tests/` はありません。実装を始める際は、本体コードを `src/`、テストを `tests/`、サンプルや補助資料を `docs/` または `fixtures/` に分けてください。
 
 ## ビルド・テスト・開発コマンド
 

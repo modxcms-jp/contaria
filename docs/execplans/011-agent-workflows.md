@@ -15,7 +15,7 @@
 
 ## 2. 背景
 
-- 関連要件: [docs/requirements.md](/home/yamamoto/ghq/github.com/modxcms-jp/contari/docs/requirements.md)
+- 関連要件: [docs/requirements.md](/home/yamamoto/ghq/github.com/modxcms-jp/contaria/docs/requirements.md)
 - 関連ファイル: `AGENTS.md`, `PLANS.md`, `ROADMAP.md`
 - 現状の問題: ExecPlan 方針はあるが、具体的な skill / subagent の置き場と役割分担が未定義
 - この変更が必要な理由: AI の役割を固定しないまま進めると、文脈肥大化、重複調査、責務の混線が起きやすいため
